@@ -1,0 +1,1 @@
+latex2pptx is a project to translate LaTeX Beamer file to Open XML pptx file.
